@@ -27,9 +27,10 @@ Services I used were... Key concepts I learnt include infrastructure as code, se
 
 This project took me approximately...3hours The most challenging part was as terraform was a new concept for me it took time to get used to and add the deatails and learn the new concepts that is understand what i was doing exactly and documenting it for future reference. It was most rewarding to see the bucket being created and object being added on it own without using the console. understanding terraform in a more hands on way.
 
-I chose to do this project today because i wanted to know about terraform, thankyou for making such a simple and guided project to help understand the concept easily. Something that would make learning with NextWork even better is if the projects had real world scenario problems or set up to make it more relatable.
-
+I chose to do this project today because i wanted to know about terraform, thankyou for making such a simple and guided project to help understand the concept easily. 
 ---
+
+<img width="940" height="439" alt="image" src="https://github.com/user-attachments/assets/20b1f464-92c9-4ca6-8d36-63d243c7242c" />
 
 ## Introducing Terraform
 
@@ -118,5 +119,12 @@ To validate that I've updated my configuration successfully, I checked s3 bucket
 ![Image](http://learn.nextwork.org/content_rose_beautiful_white_sapote/uploads/aws-devops-terraform1_9o0p1a2s)
 
 ---
+What I took away:
 
+Started thinking more in terms of automation
+Got hands-on with Infrastructure as Code
+Learned how to troubleshoot setup issues
 ---
+<img width="940" height="344" alt="image" src="https://github.com/user-attachments/assets/a5416e30-3b37-4b51-9690-45d1707dd929" />
+
+
