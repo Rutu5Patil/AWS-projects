@@ -17,10 +17,12 @@
 
 ## The Project
 
-I'm building a chatbot to gain hands-on experience with AI while utilising AWS. This, in turn, helps me understand how AI is incorporated into AWS to create new and different projects. I can upgrade this project or use the knowledge to integrate into real-world use-cases, or just to create and turn it into something new..
+I'm building a chatbot to gain hands-on experience with AI while utilising AWS. This, in turn, helps me understand how AI is incorporated into AWS to create new and different projects. I can upgrade this project or use the knowledge to integrate into real-world use-cases, or just to create and turn it into something new.
 
 ![Image](http://learn.nextwork.org/content_rose_beautiful_white_sapote/uploads/aws-ai-lex_a1b2c3d4)
 
+image source: [https://github.com/pranavtumkur/AWS-Serverless-Chatbot]
+[image modified with chatgpt]
 ---
 
 ## Hold me accountable!
@@ -46,6 +48,5 @@ Amazon Lex is tightly integrated with other AWS services, offering a more powerf
 
 ![Image](http://learn.nextwork.org/content_rose_beautiful_white_sapote/uploads/aws-ai-lex_ba6d42ae)
 
-image source: [https://github.com/pranavtumkur/AWS-Serverless-Chatbot]
-[image modified with chatgpt]
+
 ---
