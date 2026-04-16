@@ -46,4 +46,6 @@ Amazon Lex is tightly integrated with other AWS services, offering a more powerf
 
 ![Image](http://learn.nextwork.org/content_rose_beautiful_white_sapote/uploads/aws-ai-lex_ba6d42ae)
 
+image source: [https://github.com/pranavtumkur/AWS-Serverless-Chatbot]
+[image modified with chatgpt]
 ---
