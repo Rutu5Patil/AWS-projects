@@ -1,8 +1,8 @@
 This folder contains a project related to Amazon LEX. 
 
 creating a chatbot for:
-1. checking bank balance
-2. adding intent and slots
-3. connecting to lambda
-4. keeping the user info for a small or long time to get more info( Retain info)
-5. transfer money
+1. Checking bank balance
+2. Adding intent and slots
+3. Connecting to lambda
+4. Keeping the user info for a small or long time to get more info( Retain info)
+5. Transfer money
